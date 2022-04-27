@@ -1,3 +1,5 @@
 Good evening
 
 Welcome to Azure devops Class
+
+Today we are discussing about git
